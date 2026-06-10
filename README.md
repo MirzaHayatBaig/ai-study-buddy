@@ -22,4 +22,4 @@ AI Study Buddy is an AI-powered educational web application that helps users und
 The API key is not included in this repository for security reasons.
 
 ## Project Report
-[View Full Project Report](AI%20Study%20Buddy_Result.pdf)
+[View Full Project Report]("C:\Users\hayat\OneDrive\Desktop\Projects\AI Study Buddy using Gemini\AI Study Buddy_Result.pdf")
