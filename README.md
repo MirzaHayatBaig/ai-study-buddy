@@ -22,4 +22,4 @@ AI Study Buddy is an AI-powered educational web application that helps users und
 The API key is not included in this repository for security reasons.
 
 ## Preview
-![AI Study Buddy](screenshot.png)
+![AI Study Buddy](screenshot.PNG)
